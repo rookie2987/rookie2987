@@ -1,16 +1,15 @@
-### Hi there 👋
+# rookie <3
 
-<!--
-**rookie2987/rookie2987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[steam](https://steamcommunity.com/id/catgirlsrookie)
 
-Here are some ideas to get you started:
+[discord](discord.gg/catgirls)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+rookie#6666
+
+## languages
+- Javascript / NodeJS
+- Typescript
+- Golang
+- Java
+- C#, C++
+

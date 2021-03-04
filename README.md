@@ -1,8 +1,7 @@
 # rookie <3
 
-[steam](https://steamcommunity.com/id/catgirlsrookie)
+[steam](https://steamcommunity.com/id/ilyrookie)
 
-[discord](discord.gg/catgirls)
 
 rookie#6666
 

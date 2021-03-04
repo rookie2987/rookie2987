@@ -2,9 +2,6 @@
 
 [steam](https://steamcommunity.com/id/ilyrookie)
 
-
-rookie#6666
-
 ## languages
 - Javascript / NodeJS
 - Typescript
